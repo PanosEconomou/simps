@@ -32,4 +32,4 @@ Some stuff about derivation
 
 ### Playing Around
 
-Let’s try to play around with a kid-friendly version of the equation.
+Let’s try to play around with a kid-friendly version of the equation.`
