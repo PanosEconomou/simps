@@ -4,7 +4,8 @@ Nucleosysnthesis is the process of arriving to the densities of matter that we o
 
 ## Nuclear Statistical Equilibrium
 
-This is reffered to as the **Nuclear Statistical Equilibrium (NSE)** which can take multiple forms. Consider **kinetic equilibrium**, where the number densiry of a slow particle $A$ can be given by
+This is referred to as the **Nuclear Statistical Equilibrium (NSE)** which can take multiple forms. Consider **kinetic equilibrium**, where the number density of a slow particle $A$ can be given by
+
 
 
 $$
