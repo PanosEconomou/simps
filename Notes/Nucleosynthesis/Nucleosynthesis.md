@@ -6,11 +6,11 @@ Nucleosysnthesis is the process of arriving to the densities of matter that we o
 
 This is referred to as the **Nuclear Statistical Equilibrium (NSE)** which can take multiple forms. Consider **kinetic equilibrium**, where the number density of a slow particle $A$ can be given by
 
-
-
 $$
 n_A = g_A \left(\frac{m_A T}{2\pi}\right)^{\frac{3}{2}}\, \exp\left(\frac{\mu_A - m_A}{T}\right)
 $$
+
+
 here, $m_A$ is the mass and $\mu_A$ is the chemical potential, $T$ is the temperature etc. etc.
 
 
