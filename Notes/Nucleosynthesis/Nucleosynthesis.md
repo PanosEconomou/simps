@@ -63,3 +63,5 @@ Therefore, by substituting we get
 $$
 \frac{dn}{dt} + 3n = \frac{n_{eq}^2 - n^2}{T^2}
 $$
+
+
