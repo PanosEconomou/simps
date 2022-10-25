@@ -1,2 +1,3 @@
-Books/
+#Books/
 .DS_Store
+*.gitignore
